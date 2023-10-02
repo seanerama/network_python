@@ -1,7 +1,7 @@
 # Network Automation Scripts Collection 🌐
 
 ## Overview 🌟
-This repository houses a series of Python scripts designed to automate various network administration tasks, each increasing in complexity and functionality. The scripts leverage libraries like Netmiko for establishing SSH connections to network devices and Flask for rendering a user-friendly web interface.
+This repository houses a series of Python scripts designed to teach how to automate various network administration tasks, each script increases in complexity and functionality. The scripts leverage libraries like Netmiko for establishing SSH connections to network devices and Flask for rendering a user-friendly web interface.
 
 ## 📁 Repository Contents
 
