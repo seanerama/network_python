@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Network Commands Form</title>
+</head>
+<body>
+    <form action="/submit" method="post">
+        <label for="email">User Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+        
+        <label for="commands">Show Commands:</label><br>
+        <textarea id="commands" name="commands" rows="4" cols="50" placeholder="Enter one command per line" required></textarea><br><br>
+        
+        <label for="ips">IP Addresses:</label><br>
+        <textarea id="ips" name="ips" rows="4" cols="50" placeholder="Enter one IP address per line" required></textarea><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
