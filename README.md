@@ -26,7 +26,12 @@ This repository houses a series of Python scripts designed to teach how to autom
 ### 🌐 Intro to NTC_Templates
 30. **Part 30:** Simple script to parse 'show vlan' command, showing how ntc templates turn text output into a dictionary
 31. **Part 31:** Show ip route with NTC.
-32. **Part 32:** Show cdp neighbors in fromated output 
+32. **Part 32:** Show cdp neighbors in fromated output
+
+### 🌐 Intro to Request (Restful API)
+40. **Part 40:** Queries the ARIN Whois database to retrieve organization details for a given IP address.
+
+    
 ## 🚀 Getting Started
 
 ### Prerequisites
