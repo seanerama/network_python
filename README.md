@@ -23,6 +23,10 @@ This repository houses a series of Python scripts designed to teach how to autom
 21. **Part 21:** Enhances the Flask app to render templates and handle form submissions.
 22. **Part 22:** Integrates the Flask app with the network command runner, allowing users to input commands and IP addresses and receive results via the web interface.
 
+### 🌐 Intro to NTC_Templates
+30. **Part 30:** Simple script to parse 'show vlan' command, showing how ntc templates turn text output into a dictionary
+31. **Part 31:** Show ip route with NTC.
+32. **Part 32:** Show cdp neighbors in fromated output 
 ## 🚀 Getting Started
 
 ### Prerequisites
