@@ -41,4 +41,4 @@ This repository houses a series of Python scripts designed to teach how to autom
 ### Installation
 1. Clone this repository to your local machine.
    ```sh
-   git clone seanerama/network_python
+   gh repo clone seanerama/network_python
